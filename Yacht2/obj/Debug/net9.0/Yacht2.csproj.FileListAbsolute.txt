@@ -1,0 +1,14 @@
+C:\Users\ASUS\OneDrive\바탕 화면\NYPC\Yacht2\bin\Debug\net9.0\Yacht2.exe
+C:\Users\ASUS\OneDrive\바탕 화면\NYPC\Yacht2\bin\Debug\net9.0\Yacht2.deps.json
+C:\Users\ASUS\OneDrive\바탕 화면\NYPC\Yacht2\bin\Debug\net9.0\Yacht2.runtimeconfig.json
+C:\Users\ASUS\OneDrive\바탕 화면\NYPC\Yacht2\bin\Debug\net9.0\Yacht2.dll
+C:\Users\ASUS\OneDrive\바탕 화면\NYPC\Yacht2\bin\Debug\net9.0\Yacht2.pdb
+C:\Users\ASUS\OneDrive\바탕 화면\NYPC\Yacht2\obj\Debug\net9.0\Yacht2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\바탕 화면\NYPC\Yacht2\obj\Debug\net9.0\Yacht2.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\바탕 화면\NYPC\Yacht2\obj\Debug\net9.0\Yacht2.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\바탕 화면\NYPC\Yacht2\obj\Debug\net9.0\Yacht2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\바탕 화면\NYPC\Yacht2\obj\Debug\net9.0\Yacht2.dll
+C:\Users\ASUS\OneDrive\바탕 화면\NYPC\Yacht2\obj\Debug\net9.0\refint\Yacht2.dll
+C:\Users\ASUS\OneDrive\바탕 화면\NYPC\Yacht2\obj\Debug\net9.0\Yacht2.pdb
+C:\Users\ASUS\OneDrive\바탕 화면\NYPC\Yacht2\obj\Debug\net9.0\Yacht2.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\바탕 화면\NYPC\Yacht2\obj\Debug\net9.0\ref\Yacht2.dll
